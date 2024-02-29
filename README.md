@@ -58,3 +58,8 @@ Data can be downloaded at: https://www.cs.cmu.edu/~./enron/enron_mail_20150507.t
 Here is an example of how the results could be presented using PBI.
 
 ![PBI example](images/pbiexample.png "PBI example")
+
+
+#### Workspace preview
+
+![PBI example](images/workspace_preview.png "PBI example")
