@@ -1,5 +1,5 @@
 
-## Tracking Anomalies in Emails Datasets with Microsoft Fabric
+## Tracking Anomalies in Emails Datasets with Microsoft Fabric empowered with Azure OpenAI
 
 
 
